@@ -1,0 +1,24 @@
+.contenedor-tabla{
+  margin-top: 25px;
+  flex-direction: column;
+}
+.customTable{
+  margin-top: 5px;
+  width: 100%;
+  background-color: #4a5759;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #7ea8f8;
+  border-style: solid;
+  color: #ffffff;
+}
+table.customTable td, table.customTable th {
+    border-width: 2px;
+    border-color: #0A0E14;
+    border-style: solid;
+    padding: 5px;
+  }
+  
+table.customTable thead {
+    background-color: #2a3132;
+}
